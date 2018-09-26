@@ -1,7 +1,7 @@
 ---
 # group_vars/rhel6-servers
 
-bitnami_installer: bitnami-redmine-2.6.3-0-linux-x64-installer.run
+bitnami_installer: bitnami-redmine-3.4.6-1-linux-x64-installer.run
 bitnami_optionfile: bitnami-redmine.ini
 bitnami_home: /opt/bitnami
 bitnami_base_user_name: Admin Redmine
